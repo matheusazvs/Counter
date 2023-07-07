@@ -1,0 +1,35 @@
+body {
+  background-color: #f3f7f7;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+#value {
+  font-size: 100px;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+button {
+  background-color: transparent;
+  font-size: 160%;
+  text-transform: uppercase;
+  margin-left: 10px;
+  color: rgb(90, 89, 89);
+
+  border-style: groove;
+  border-radius: 10px;
+  margin-top: 30px;
+  font-family: monospace;
+}
